@@ -1,0 +1,30 @@
+
+form {
+  text-transform: uppercase;
+  font-family: 'Jua', sans-serif;
+  font-size: 20px;
+  margin: 20px;
+}
+
+label {
+  display: block;
+}
+
+input {
+  display: block;
+  border: 5px solid rgb(41, 238, 58);
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+#submit-button {
+  display: block;
+  background-color: rgb(41, 238, 58);
+  text-transform: uppercase;
+  font-family: 'Jua', sans-serif;
+  font-size: 20px;
+  padding: 10px;
+  border-radius: 30px;
+  border: none;
+}
